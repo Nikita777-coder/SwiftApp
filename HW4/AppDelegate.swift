@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  HW4
 //
-//  Created by Xiaomi on 15.11.2022.
+//  Created by Nikita on 15.11.2022.
 //
 
 import UIKit
