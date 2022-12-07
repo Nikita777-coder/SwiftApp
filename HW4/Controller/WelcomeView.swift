@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  HW4
-//
-//  Created by Nikita on 15.11.2022.
-//
-
 import UIKit
 
 class WelcomeViewController: UIViewController{
@@ -152,6 +145,7 @@ class WelcomeViewController: UIViewController{
         notesButton.addTarget(self, action:
         #selector(notesButtonPressed), for: .touchUpInside)
         let newsButton = makeMenuButton(title: "📰")
+        newsButton.addTarget(self, action: #selector(newsButtonPressed), for: .touchUpInside)
         buttonsSV = UIStackView(arrangedSubviews:
                                         [colorsButton, notesButton, newsButton])
         buttonsSV.spacing = 12
@@ -208,6 +202,13 @@ class WelcomeViewController: UIViewController{
          
      }
     
+    @objc
+    private func newsButtonPressed() {
+        let newsListController = NewsListViewController()
+        navigationController?.pushViewController(newsListController, animated: true)
+    }
+    
+    
+    
 }
-
 
