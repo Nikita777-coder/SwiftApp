@@ -10,7 +10,8 @@ This application alows you to ckick the increment button which increase the coun
 
 ## Available actions
 <details>
-  <summary> Click the button increment </summary>
+  <summary> Click the button increment <img width="93" alt="image" src="https://user-images.githubusercontent.com/61533809/210197278-1acf1942-f83f-4078-afca-490e29f90c0c.png">
+</summary>
   <pre><code lang="">
 This operation will increase the counter and sometimes print different messages in the top-center side.\
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/61533809/210196847-f3ca2808-9f52-4102-a365-a171c761cc0c.png">
@@ -27,7 +28,7 @@ Example:
   Was:
 <img width="354" alt="image" src="https://user-images.githubusercontent.com/61533809/210197098-b42fceeb-0484-43f3-ba14-c282b214d715.png">
   
- \tHas become:
+ Has become:
 <img width="359" alt="image" src="https://user-images.githubusercontent.com/61533809/210197142-e9303300-84eb-4298-9598-14b7fe9ff4ab.png">
 </code></pre>
 </details>
