@@ -9,6 +9,8 @@
 This application alows you to ckick the increment button which increase the counter and sometime print different messages during the clicking. You can change the background color of application, make notes and see news parallel when you use app.
 
 ## Available actions
-- Click the button increment.
+<details>
+  <summary> - Click the button increment. </summary>
 > Full description
 This operation will increase the counter and sometimes print different messages in the top-center side.
+</details>
