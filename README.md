@@ -12,6 +12,5 @@ This application alows you to ckick the increment button which increase the coun
 <details>
   <summary> - Click the button increment. </summary>
   
-'''Full description
-This operation will increase the counter and sometimes print different messages in the top-center side.'''
+This operation will increase the counter and sometimes print different messages in the top-center side.
 </details>
