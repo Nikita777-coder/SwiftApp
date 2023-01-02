@@ -22,6 +22,7 @@ This operation will increase the counter and sometimes print different messages 
   <pre><code lang="">
 This operation will change the background color with your settings.
 
+
 Example:
   Was:
 <img width="354" alt="image" src="https://user-images.githubusercontent.com/61533809/210197098-b42fceeb-0484-43f3-ba14-c282b214d715.png">
