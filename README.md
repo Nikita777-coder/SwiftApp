@@ -10,10 +10,9 @@ This application alows you to ckick the increment button which increase the coun
 
 ## Available actions
 <details>
-  <summary> Click the button increment
-    <img width="348" alt="image" src="https://user-images.githubusercontent.com/61533809/210196759-29c0a413-bb65-4cfb-9031-4382bc709ba3.png">
-  </summary>
+  <summary> Click the button increment </summary>
   <pre><code lang="">
 This operation will increase the counter and sometimes print different messages in the top-center side.
+<img width="334" alt="image" src="https://user-images.githubusercontent.com/61533809/210196847-f3ca2808-9f52-4102-a365-a171c761cc0c.png">
 </code></pre>
 </details>
