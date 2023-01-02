@@ -10,18 +10,22 @@ This application alows you to ckick the increment button which increase the coun
 
 ## Available actions
 <details>
-  <summary> Click the button increment <img width="93" alt="image" src="https://user-images.githubusercontent.com/61533809/210197278-1acf1942-f83f-4078-afca-490e29f90c0c.png">
+  <summary> Click the button increment
 </summary>
   <pre><code lang="">
+  <img width="93" alt="image" src="https://user-images.githubusercontent.com/61533809/210197278-1acf1942-f83f-4078-afca-490e29f90c0c.png">
+  
 This operation will increase the counter and sometimes print different messages in the top-center side.\
 <img width="334" alt="image" src="https://user-images.githubusercontent.com/61533809/210196847-f3ca2808-9f52-4102-a365-a171c761cc0c.png">
 </code></pre>
 </details>
 
 <details>
-  <summary> Click the button with pallete <img width="100" alt="image" src="https://user-images.githubusercontent.com/61533809/210197323-c5a0bdaa-ccd0-4f85-96bf-80fbce377de0.png">
+  <summary> Click the button with pallete 
 </summary>
   <pre><code lang="">
+  <img width="100" alt="image" src="https://user-images.githubusercontent.com/61533809/210197323-c5a0bdaa-ccd0-4f85-96bf-80fbce377de0.png">
+  
 This operation will change the background color with your settings.
 
 
