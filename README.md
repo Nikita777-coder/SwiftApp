@@ -19,7 +19,8 @@ This operation will increase the counter and sometimes print different messages 
 </details>
 
 <details>
-  <summary> Click the button with pallete </summary>
+  <summary> Click the button with pallete <img width="100" alt="image" src="https://user-images.githubusercontent.com/61533809/210197323-c5a0bdaa-ccd0-4f85-96bf-80fbce377de0.png">
+</summary>
   <pre><code lang="">
 This operation will change the background color with your settings.
 
