@@ -20,10 +20,13 @@ This operation will increase the counter and sometimes print different messages 
 <details>
   <summary> Click the button with pallete </summary>
   <pre><code lang="">
-This operation will change the background color with your settings.\
-\
-Example:\
+This operation will change the background color with your settings.
 
-<img width="334" alt="image" src="https://user-images.githubusercontent.com/61533809/210196847-f3ca2808-9f52-4102-a365-a171c761cc0c.png">
+Example:
+  Was:
+<img width="354" alt="image" src="https://user-images.githubusercontent.com/61533809/210197098-b42fceeb-0484-43f3-ba14-c282b214d715.png">
+  
+  Has become:
+<img width="359" alt="image" src="https://user-images.githubusercontent.com/61533809/210197142-e9303300-84eb-4298-9598-14b7fe9ff4ab.png">
 </code></pre>
 </details>
