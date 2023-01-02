@@ -27,7 +27,7 @@ Example:
   Was:
 <img width="354" alt="image" src="https://user-images.githubusercontent.com/61533809/210197098-b42fceeb-0484-43f3-ba14-c282b214d715.png">
   
-  Has become:
+ \tHas become:
 <img width="359" alt="image" src="https://user-images.githubusercontent.com/61533809/210197142-e9303300-84eb-4298-9598-14b7fe9ff4ab.png">
 </code></pre>
 </details>
